@@ -1,4 +1,6 @@
-﻿*.suo
+.vagrant
+﻿*.log
+*.suo
 *.sln
 *.vcxproj
 *.filters
